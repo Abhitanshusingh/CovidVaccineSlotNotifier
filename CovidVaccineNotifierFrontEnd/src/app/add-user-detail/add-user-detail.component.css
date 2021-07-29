@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+  }
+  
+.backgroundImage {
+    position: relative;
+    background: #fff url("D:\Angular10\CovidVaccineNotifier\CovidVaccineNotifierFrontEnd\src\assets\image\covid-19-vaccine.jpg") center center;/*slide.jpg =>you image*/    
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
